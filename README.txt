@@ -1,0 +1,2 @@
+Data Referenced in this repository are from the following source:
+Jeffrey Mvutu Mabilama (2020) Dating App User Profiles' stats - Lovoo v3, User fame and behaviour on a dating app. [Dataset] https://www.kaggle.com/jmmvutu/dating-app-lovoo-user-profiles
